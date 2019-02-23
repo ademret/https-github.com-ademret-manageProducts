@@ -1,3 +1,9 @@
 {
-"rulesExt": {}
+	"rulesExt": {
+		"no-undef": {
+			"severity": "e",
+			"category": "Possible Error",
+			"helpUrl": "http://eslint.org/docs/rules/no-undef"
+		}
+	}
 }
