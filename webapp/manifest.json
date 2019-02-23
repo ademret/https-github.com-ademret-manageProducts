@@ -15,7 +15,7 @@
 		"ach": "BC-SRV-NWD-FRA",
 		"dataSources": {
 			"mainService": {
-				"uri": "/sap/opu/odata/sap/SEPMRA_PROD_MAN/",
+				"uri": "/sap/opu/odata/sap/SEPMRA_PROD_MAN/",  
 				"type": "OData",
 				"settings": {
 					"annotations": [
